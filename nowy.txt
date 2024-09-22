@@ -1,2 +1,3 @@
 pierwsza linia
 druga linia na future
+trzecia linia na branchu hotFix1
